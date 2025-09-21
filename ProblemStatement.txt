@@ -1,0 +1,8 @@
+1. Sales Performance Analysis
+
+To achieve our goal of evaluating and visualizing sales performance, we will utilize Power BI's drag-and-drop features to create interactive dashboards that dynamically update based on time periods, regions, or product categories, allowing us to effectively analyze key metrics such as revenue, profit margins, and customer acquisition.
+
+Key Metrics to Include:
+
+Create a basic sales dashboard using Power BI's drag-and-drop functionality.
+Visualize sales data across time and product categories.
